@@ -6,7 +6,7 @@
   <link href="http://zhang996.github.io/atom.xml" rel="self"/>
   
   <link href="http://zhang996.github.io/"/>
-  <updated>2020-12-26T04:25:09.643Z</updated>
+  <updated>2020-12-26T09:29:37.091Z</updated>
   <id>http://zhang996.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>python学习笔记2_数据类型</title>
+    <link href="http://zhang996.github.io/2020/10/15/python-xue-xi-bi-ji-2-ji-ben-shu-ju-lei-xing/"/>
+    <id>http://zhang996.github.io/2020/10/15/python-xue-xi-bi-ji-2-ji-ben-shu-ju-lei-xing/</id>
+    <published>2020-10-15T04:19:42.000Z</published>
+    <updated>2020-12-26T09:29:37.091Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h4 id=&quot;标准数据类型&quot;&gt;&lt;a href=&quot;#标准数据类型&quot; class=&quot;headerlink&quot; title=&quot;标准数据类型&quot;&gt;&lt;/a&gt;标准数据类型&lt;/h4&gt;&lt;p&gt;Python3</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>python学习笔记1_基本语法</title>
