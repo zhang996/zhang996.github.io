@@ -6,7 +6,7 @@
   <link href="http://zhang996.github.io/atom.xml" rel="self"/>
   
   <link href="http://zhang996.github.io/"/>
-  <updated>2020-12-25T09:11:57.505Z</updated>
+  <updated>2020-12-26T04:25:09.643Z</updated>
   <id>http://zhang996.github.io/</id>
   
   <author>
@@ -17,18 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://zhang996.github.io/2020/12/25/hello-world/"/>
-    <id>http://zhang996.github.io/2020/12/25/hello-world/</id>
-    <published>2020-12-25T09:11:57.505Z</published>
-    <updated>2020-12-25T09:11:57.505Z</updated>
+    <title>python学习笔记1_基本语法</title>
+    <link href="http://zhang996.github.io/2020/10/12/python-xue-xi-bi-ji-1-ji-ben-yu-fa/"/>
+    <id>http://zhang996.github.io/2020/10/12/python-xue-xi-bi-ji-1-ji-ben-yu-fa/</id>
+    <published>2020-10-12T04:19:42.000Z</published>
+    <updated>2020-12-26T04:25:09.643Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;h4 id=&quot;编码：&quot;&gt;&lt;a href=&quot;#编码：&quot; class=&quot;headerlink&quot; title=&quot;编码：&quot;&gt;&lt;/a&gt;编码：&lt;/h4&gt;&lt;p&gt;默认情况下，Python 3 源码文件以 &lt;strong&gt;UTF-8&lt;/strong&gt; 编码，所有字符串都是 unicode</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Debian部署Samba共享文件</title>
+    <link href="http://zhang996.github.io/2020/10/11/debian-bu-shu-samba-gong-xiang-wen-jian/"/>
+    <id>http://zhang996.github.io/2020/10/11/debian-bu-shu-samba-gong-xiang-wen-jian/</id>
+    <published>2020-10-11T04:00:00.000Z</published>
+    <updated>2020-12-26T04:33:53.940Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;​       </summary>
         
       
     
