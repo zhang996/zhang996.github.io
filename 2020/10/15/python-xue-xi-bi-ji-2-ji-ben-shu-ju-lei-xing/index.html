@@ -392,7 +392,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    560
+                    559
                 </div>
                 
 
@@ -403,6 +403,9 @@
         </div>
         <hr class="clearfix">
 
+        
+        <!-- 是否加载使用自带的 prismjs. -->
+        <link rel="stylesheet" href="/libs/prism/prism.css">
         
 
         
@@ -423,7 +426,9 @@
 <li><strong>不可变数据（3 个）：</strong>Number（数字）、String（字符串）、Tuple（元组）；</li>
 <li><strong>可变数据（3 个）：</strong>List（列表）、Dictionary（字典）、Set（集合）。</li>
 </ul>
-<figure class="highlight plain"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&gt;&gt;&gt; a = 111</span><br><span class="line">&gt;&gt;&gt; isinstance(a, int)</span><br><span class="line">True</span><br></pre></td></tr></tbody></table></figure>
+<pre class="line-numbers language-none"><code class="language-none">&gt;&gt;&gt; a = 111
+&gt;&gt;&gt; isinstance(a, int)
+True<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>
 <p><strong>isinstance 和 type 的区别在于：</strong></p>
 <ul>
 <li>type()不会认为子类是一种父类类型。</li>
