@@ -6,7 +6,7 @@
   <link href="http://zhang996.github.io/atom.xml" rel="self"/>
   
   <link href="http://zhang996.github.io/"/>
-  <updated>2021-01-03T06:12:55.000Z</updated>
+  <updated>2021-01-03T09:33:58.000Z</updated>
   <id>http://zhang996.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://zhang996.github.io/2021/01/03/python-shi-zhan-1/"/>
     <id>http://zhang996.github.io/2021/01/03/python-shi-zhan-1/</id>
     <published>2021-01-03T04:30:00.000Z</published>
-    <updated>2021-01-03T06:12:55.000Z</updated>
+    <updated>2021-01-03T09:33:58.000Z</updated>
     
     
       
@@ -48,7 +48,7 @@
     <link href="http://zhang996.github.io/2020/12/27/hexo-jian-zhan-ji-lu/"/>
     <id>http://zhang996.github.io/2020/12/27/hexo-jian-zhan-ji-lu/</id>
     <published>2020-12-27T05:21:00.000Z</published>
-    <updated>2021-01-03T09:11:34.000Z</updated>
+    <updated>2021-01-03T09:33:36.000Z</updated>
     
     
       
@@ -102,7 +102,7 @@
     <link href="http://zhang996.github.io/2020/10/12/python-xue-xi-bi-ji-1-ji-ben-yu-fa/"/>
     <id>http://zhang996.github.io/2020/10/12/python-xue-xi-bi-ji-1-ji-ben-yu-fa/</id>
     <published>2020-10-12T04:19:42.000Z</published>
-    <updated>2021-01-03T09:14:51.000Z</updated>
+    <updated>2021-01-03T09:34:21.000Z</updated>
     
     
       
@@ -121,6 +121,35 @@
     <category term="python" scheme="http://zhang996.github.io/tags/python/"/>
     
     <category term="笔记" scheme="http://zhang996.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Debian部署Samba共享文件</title>
+    <link href="http://zhang996.github.io/2020/10/11/debian-bu-shu-samba-gong-xiang-wen-jian/"/>
+    <id>http://zhang996.github.io/2020/10/11/debian-bu-shu-samba-gong-xiang-wen-jian/</id>
+    <published>2020-10-11T04:00:00.000Z</published>
+    <updated>2021-01-03T09:33:05.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;​       </summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="http://zhang996.github.io/categories/Linux/"/>
+    
+    
+    <category term="Linux" scheme="http://zhang996.github.io/tags/Linux/"/>
+    
+    <category term="Debian" scheme="http://zhang996.github.io/tags/Debian/"/>
+    
+    <category term="Samba" scheme="http://zhang996.github.io/tags/Samba/"/>
     
   </entry>
   
@@ -146,6 +175,33 @@
   </entry>
   
   <entry>
+    <title>《烈火英雄》影评</title>
+    <link href="http://zhang996.github.io/2019/11/11/lie-huo-ying-xiong-ying-ping/"/>
+    <id>http://zhang996.github.io/2019/11/11/lie-huo-ying-xiong-ying-ping/</id>
+    <published>2019-11-11T07:13:37.000Z</published>
+    <updated>2021-01-03T09:36:24.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://p.pstatp.com/origin/137de000266b3a3d0a0cc&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="影评" scheme="http://zhang996.github.io/categories/%E5%BD%B1%E8%AF%84/"/>
+    
+    
+    <category term="影评" scheme="http://zhang996.github.io/tags/%E5%BD%B1%E8%AF%84/"/>
+    
+    <category term="烈火英雄" scheme="http://zhang996.github.io/tags/%E7%83%88%E7%81%AB%E8%8B%B1%E9%9B%84/"/>
+    
+  </entry>
+  
+  <entry>
     <title>《少年的你》影评</title>
     <link href="http://zhang996.github.io/2019/10/29/shao-nian-de-ni-ying-ping/"/>
     <id>http://zhang996.github.io/2019/10/29/shao-nian-de-ni-ying-ping/</id>
@@ -163,6 +219,33 @@
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>《你好，之华》影评</title>
+    <link href="http://zhang996.github.io/2019/10/28/ni-hao-zhi-hua-ying-ping/"/>
+    <id>http://zhang996.github.io/2019/10/28/ni-hao-zhi-hua-ying-ping/</id>
+    <published>2019-10-28T13:26:39.000Z</published>
+    <updated>2021-01-03T09:36:39.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;首先，从剧情展开来讲，影片一开始在殡仪馆，以袁之南的葬礼开始，灰暗的画面，配以大提琴低沉地伴奏，给人的感觉相当压抑，也是对剧情基调的铺垫吧，只是从观众的角度来说，倘若不是专注去看，或者不是在电影院贡献票房去看的，可能前面这部分葬礼会让人很容易忽略掉，我也是在看了大概有三遍，</summary>
+        
+      
+    
+    
+    
+    <category term="影评" scheme="http://zhang996.github.io/categories/%E5%BD%B1%E8%AF%84/"/>
+    
+    
+    <category term="影评" scheme="http://zhang996.github.io/tags/%E5%BD%B1%E8%AF%84/"/>
+    
+    <category term="你好，之华" scheme="http://zhang996.github.io/tags/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B9%8B%E5%8D%8E/"/>
     
   </entry>
   
@@ -212,6 +295,34 @@
   </entry>
   
   <entry>
+    <title>《后来的我们》影评</title>
+    <link href="http://zhang996.github.io/2019/10/21/hou-lai-de-wo-men-ying-ping/"/>
+    <id>http://zhang996.github.io/2019/10/21/hou-lai-de-wo-men-ying-ping/</id>
+    <published>2019-10-20T16:08:56.000Z</published>
+    <updated>2021-01-03T09:36:06.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;其实，在写影评之前，我思考了挺久的，看完电影，心里挺复杂的，姑且不讨论这部电影的在大众视野中的评价如何，我只想说，我只写我自己的影评，我看完了一部电影，那这部电影给我的感受也就是我独有的，我的影评也只是想把这些感受写出来&lt;/p&gt;
+&lt;p&gt;后来的我们，林见清和方小晓，他们两个之</summary>
+        
+      
+    
+    
+    
+    <category term="影评" scheme="http://zhang996.github.io/categories/%E5%BD%B1%E8%AF%84/"/>
+    
+    
+    <category term="影评" scheme="http://zhang996.github.io/tags/%E5%BD%B1%E8%AF%84/"/>
+    
+    <category term="后来的我们" scheme="http://zhang996.github.io/tags/%E5%90%8E%E6%9D%A5%E7%9A%84%E6%88%91%E4%BB%AC/"/>
+    
+  </entry>
+  
+  <entry>
     <title>闲来杂谈</title>
     <link href="http://zhang996.github.io/2019/10/17/xian-lai-za-tan/"/>
     <id>http://zhang996.github.io/2019/10/17/xian-lai-za-tan/</id>
@@ -231,6 +342,33 @@
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>《The Fault in Our Stars》影评</title>
+    <link href="http://zhang996.github.io/2019/10/15/the-fault-in-our-stars-ying-ping/"/>
+    <id>http://zhang996.github.io/2019/10/15/the-fault-in-our-stars-ying-ping/</id>
+    <published>2019-10-15T12:39:00.000Z</published>
+    <updated>2021-01-03T09:35:46.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;img src=&quot;https://pic.rmb.bdstatic.com/bjh/299d765a81590723dddffcba53592252.png&quot; alt=&quot;星愿里的错&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="影评" scheme="http://zhang996.github.io/categories/%E5%BD%B1%E8%AF%84/"/>
+    
+    
+    <category term="影评" scheme="http://zhang996.github.io/tags/%E5%BD%B1%E8%AF%84/"/>
+    
+    <category term="星愿里的错" scheme="http://zhang996.github.io/tags/%E6%98%9F%E6%84%BF%E9%87%8C%E7%9A%84%E9%94%99/"/>
     
   </entry>
   
