@@ -48,7 +48,7 @@
     <link href="http://zhang996.github.io/2020/12/27/hexo-jian-zhan-ji-lu/"/>
     <id>http://zhang996.github.io/2020/12/27/hexo-jian-zhan-ji-lu/</id>
     <published>2020-12-27T05:21:00.000Z</published>
-    <updated>2020-12-27T07:20:29.000Z</updated>
+    <updated>2021-01-03T09:11:34.000Z</updated>
     
     
       
@@ -61,6 +61,10 @@
     
     
     
+    <category term="Hexo" scheme="http://zhang996.github.io/categories/Hexo/"/>
+    
+    
+    <category term="Linux" scheme="http://zhang996.github.io/tags/Linux/"/>
     
     <category term="Hexo" scheme="http://zhang996.github.io/tags/Hexo/"/>
     
@@ -71,7 +75,7 @@
     <link href="http://zhang996.github.io/2020/10/15/python-xue-xi-bi-ji-2-ji-ben-shu-ju-lei-xing/"/>
     <id>http://zhang996.github.io/2020/10/15/python-xue-xi-bi-ji-2-ji-ben-shu-ju-lei-xing/</id>
     <published>2020-10-15T04:19:42.000Z</published>
-    <updated>2020-12-26T15:40:11.245Z</updated>
+    <updated>2021-01-03T09:15:17.000Z</updated>
     
     
       
@@ -84,6 +88,12 @@
     
     
     
+    <category term="python" scheme="http://zhang996.github.io/categories/python/"/>
+    
+    
+    <category term="python" scheme="http://zhang996.github.io/tags/python/"/>
+    
+    <category term="笔记" scheme="http://zhang996.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
@@ -92,7 +102,7 @@
     <link href="http://zhang996.github.io/2020/10/12/python-xue-xi-bi-ji-1-ji-ben-yu-fa/"/>
     <id>http://zhang996.github.io/2020/10/12/python-xue-xi-bi-ji-1-ji-ben-yu-fa/</id>
     <published>2020-10-12T04:19:42.000Z</published>
-    <updated>2020-12-26T15:40:10.725Z</updated>
+    <updated>2021-01-03T09:14:51.000Z</updated>
     
     
       
@@ -105,27 +115,12 @@
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>Debian部署Samba共享文件</title>
-    <link href="http://zhang996.github.io/2020/10/11/debian-bu-shu-samba-gong-xiang-wen-jian/"/>
-    <id>http://zhang996.github.io/2020/10/11/debian-bu-shu-samba-gong-xiang-wen-jian/</id>
-    <published>2020-10-11T04:00:00.000Z</published>
-    <updated>2020-12-26T15:40:11.755Z</updated>
+    <category term="python" scheme="http://zhang996.github.io/categories/python/"/>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;​       </summary>
-        
-      
+    <category term="python" scheme="http://zhang996.github.io/tags/python/"/>
     
-    
-    
+    <category term="笔记" scheme="http://zhang996.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
@@ -151,27 +146,6 @@
   </entry>
   
   <entry>
-    <title>《烈火英雄》影评</title>
-    <link href="http://zhang996.github.io/2019/11/11/lie-huo-ying-xiong-ying-ping/"/>
-    <id>http://zhang996.github.io/2019/11/11/lie-huo-ying-xiong-ying-ping/</id>
-    <published>2019-11-11T07:13:37.000Z</published>
-    <updated>2020-12-26T15:39:44.153Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>《少年的你》影评</title>
     <link href="http://zhang996.github.io/2019/10/29/shao-nian-de-ni-ying-ping/"/>
     <id>http://zhang996.github.io/2019/10/29/shao-nian-de-ni-ying-ping/</id>
@@ -184,28 +158,6 @@
         
         
     <summary type="html">&lt;p&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>《你好，之华》影评</title>
-    <link href="http://zhang996.github.io/2019/10/28/ni-hao-zhi-hua-ying-ping/"/>
-    <id>http://zhang996.github.io/2019/10/28/ni-hao-zhi-hua-ying-ping/</id>
-    <published>2019-10-28T13:26:39.000Z</published>
-    <updated>2020-12-26T15:39:54.662Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;无论是哪里的评价，这部电影都称不上高分电影，然而一直以来，我都只看了电影的前半段，对于后半段的剧情、故事发展，没有太多的好奇，加上后续忙起来，就更顾不上去看完这部电影，这周偶然想起，于是下载，播放，从头到尾地观看了一遍，这才有了更深一层的认识&lt;/p&gt;
-&lt;p&gt;首先，从剧情展开</summary>
         
       
     
@@ -260,28 +212,6 @@
   </entry>
   
   <entry>
-    <title>《后来的我们》影评</title>
-    <link href="http://zhang996.github.io/2019/10/21/hou-lai-de-wo-men-ying-ping/"/>
-    <id>http://zhang996.github.io/2019/10/21/hou-lai-de-wo-men-ying-ping/</id>
-    <published>2019-10-20T16:08:56.000Z</published>
-    <updated>2020-12-26T15:39:53.579Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;其实，在写影评之前，我思考了挺久的，看完电影，心里挺复杂的，姑且不讨论这部电影的在大众视野中的评价如何，我只想说，我只写我自己的影评，我看完了一部电影，那这部电影给我的感受也就是我独有的，我的影评也只是想把这些感受写出来&lt;/p&gt;
-&lt;p&gt;后来的我们，林见清和方小晓，他们两个之</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>闲来杂谈</title>
     <link href="http://zhang996.github.io/2019/10/17/xian-lai-za-tan/"/>
     <id>http://zhang996.github.io/2019/10/17/xian-lai-za-tan/</id>
@@ -296,27 +226,6 @@
     <summary type="html">&lt;p&gt;一个年轻小伙子，正值大好时光，整天忧郁，像什么样子&lt;/p&gt;
 &lt;p&gt;前天晚上，我关注了一个公众号，是一个直系的学长，大我两届，就业选择了深圳&lt;/p&gt;
 &lt;p&gt;在他的公众号里面，虽然也有对生活、对工作的抱怨，不过，他称之为“闯关”，是的，在社会大学里面的每一步，都是闯关，在深圳工</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>《The Fault in Our Stars》影评</title>
-    <link href="http://zhang996.github.io/2019/10/15/the-fault-in-our-stars-ying-ping/"/>
-    <id>http://zhang996.github.io/2019/10/15/the-fault-in-our-stars-ying-ping/</id>
-    <published>2019-10-15T12:39:00.000Z</published>
-    <updated>2020-12-26T15:39:53.069Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;img</summary>
         
       
     
