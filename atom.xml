@@ -6,7 +6,7 @@
   <link href="http://zhang996.github.io/atom.xml" rel="self"/>
   
   <link href="http://zhang996.github.io/"/>
-  <updated>2021-01-03T09:33:58.000Z</updated>
+  <updated>2021-04-07T13:25:15.000Z</updated>
   <id>http://zhang996.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你好，李焕英</title>
+    <link href="http://zhang996.github.io/2021/04/07/ni-hao-li-huan-ying-ying-ping/"/>
+    <id>http://zhang996.github.io/2021/04/07/ni-hao-li-huan-ying-ying-ping/</id>
+    <published>2021-04-07T08:38:10.000Z</published>
+    <updated>2021-04-07T13:25:15.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;1.你以为你已经很爱很爱妈妈了，但妈妈远比你想象中更爱更爱更爱你。&lt;/p&gt;
+&lt;p&gt;2.父母在时，尚有来处。父母不在，只剩归途。&lt;/p&gt;
+&lt;p&gt;——引用自&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="影评" scheme="http://zhang996.github.io/categories/%E5%BD%B1%E8%AF%84/"/>
+    
+    
+    <category term="你好，李焕英" scheme="http://zhang996.github.io/tags/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%9D%8E%E7%84%95%E8%8B%B1/"/>
+    
+  </entry>
   
   <entry>
     <title>python实战(1)</title>
